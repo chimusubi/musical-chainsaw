@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/musical-chainsaw/static/css/main.073c9b0a.css",
+    "main.js": "/musical-chainsaw/static/js/main.8780be6f.js",
+    "static/js/787.be325758.chunk.js": "/musical-chainsaw/static/js/787.be325758.chunk.js",
+    "static/media/logo.svg": "/musical-chainsaw/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/musical-chainsaw/index.html",
+    "main.073c9b0a.css.map": "/musical-chainsaw/static/css/main.073c9b0a.css.map",
+    "main.8780be6f.js.map": "/musical-chainsaw/static/js/main.8780be6f.js.map",
+    "787.be325758.chunk.js.map": "/musical-chainsaw/static/js/787.be325758.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.8780be6f.js"
+  ]
+}
